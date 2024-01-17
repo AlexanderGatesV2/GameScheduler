@@ -1,4 +1,6 @@
 This will ask you how many games each team is expected to play.
+
+
 Then it will ask you whats the starting date.
 
 Example:
