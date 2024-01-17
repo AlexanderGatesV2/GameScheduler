@@ -37,3 +37,6 @@ Game Schedule:
 02/21/2024 - Team E vs Team B - Start time: 08:55PM
 02/21/2024 - ﻿Team A has a bye.
 ```
+
+edit 'teams.csv' with team names if you'd like
+edit Line 60 with specific times needed
