@@ -4,8 +4,11 @@ Then it will ask you whats the starting date.
 Example:
 
 Enter the number of games each team will play: 6
+
 Enter the start date (MM/DD/YYYY): 01/17/2024
+
 Game Schedule:
+
 01/17/2024 - ﻿Team A vs Team B - Start time: 08:05PM
 01/17/2024 - Team C vs Team D - Start time: 08:55PM
 01/17/2024 - Team E has a bye.
